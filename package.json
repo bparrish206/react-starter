@@ -64,7 +64,7 @@
     "karma": "^0.12.23",
     "karma-chrome-launcher": "^0.1.8",
     "karma-firefox-launcher": "^0.1.4",
-    "karma-ie-launcher": "^0.1.5",
+    "karma-ie-launcher": "^0.2.0",
     "karma-mocha": "^0.1.10",
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-sourcemap-loader": "^0.3.4",
