@@ -77,7 +77,7 @@
     "style-loader": "^0.12.1",
     "supertest": "^0.15.0",
     "vinyl-paths": "^1.0.0",
-    "webpack-dev-server": "^1.8.2"
+    "webpack-dev-server": "^5.2.0"
   },
   "config": {
     "blanket": {
