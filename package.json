@@ -61,7 +61,7 @@
     "gulp-sass": "^1.3.3",
     "gulp-shell": "^0.4.1",
     "gulp-util": "^3.0.4",
-    "karma": "^0.12.23",
+    "karma": "^5.0.0",
     "karma-chrome-launcher": "^0.1.8",
     "karma-firefox-launcher": "^0.1.4",
     "karma-ie-launcher": "^0.1.5",
